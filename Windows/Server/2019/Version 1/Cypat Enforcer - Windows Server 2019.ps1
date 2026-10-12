@@ -1,5 +1,5 @@
 # CYPat Enforcer - Windows Server 2019 Full Security & All-Audit Policies
-# Made by Sheeshkidayyy github.com/sheeshkidayyy Also know as Sheesh
+# Made by Sheeshkidayyy github.com/sheeshkidayyy Also know as Sheesh or Sheeshkidayyy
 $Apply = $true
 $AutoYes = $true
 $VerbosePreference = "Continue"
