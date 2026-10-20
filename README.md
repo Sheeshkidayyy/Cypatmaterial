@@ -2,7 +2,7 @@
 Cyberpatriot 2025-2026 XVIII-xxxx
 
 ## Instructions:
-Choose your operating system or distribution by clicking into the folder (Ex: Windows, Ubuntu Linux, Mint Linux).
+Choose your operating system or distribution inside the `Scripts` folder (Ex: `Scripts/Windows`, `Scripts/Linux/Mint`).
 
 ### Then:
 Look at the README that is named with what operating system you will be using in the Virtual Environment.
