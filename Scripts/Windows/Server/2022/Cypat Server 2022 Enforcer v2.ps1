@@ -1,4 +1,4 @@
-﻿﻿# CYPat Enforcer V1 2022- Full Security & Audit Script (Success-only audit for Logon/Logoff + Credential Validation Failures + Remote Assistance disabled + Defender enabled + FTP disabled + classic Windows Update + LimitBlankPasswordUse + more) with y/n checks
+﻿﻿# CYPat Enforcer V2 2022- Full Security & Audit Script (Success-only audit for Logon/Logoff + Credential Validation Failures + Remote Assistance disabled + Defender enabled + FTP disabled + classic Windows Update + LimitBlankPasswordUse + more) with y/n checks
 # Made by Sheeshkidayyy github.com/sheeshkidayyy Also know as Sheesh
 [CmdletBinding(SupportsShouldProcess=$true,ConfirmImpact='High')]
 param(
